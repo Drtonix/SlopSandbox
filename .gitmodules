@@ -1,0 +1,6 @@
+[submodule "CVER/SlopSandboxCpp/third_party/box2d"]
+	path = CVER/SlopSandboxCpp/third_party/box2d
+	url = https://github.com/erincatto/box2d.git
+[submodule "CVER/SlopSandboxCpp/third_party/raylib"]
+	path = CVER/SlopSandboxCpp/third_party/raylib
+	url = https://github.com/raysan5/raylib.git

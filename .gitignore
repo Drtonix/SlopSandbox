@@ -1,0 +1,24 @@
+.DS_Store
+/.build
+/Packages
+xcuserdata/
+DerivedData/
+.swiftpm/
+.swiftpm/configuration/registries.json
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+.netrc
+
+# App bundles and runtime outputs
+*.app/
+*.dSYM/
+
+# Local media/debug artifacts
+*.mp4.png
+/thumb*/
+
+# C++ version build outputs (stored under CVER)
+/CVER/SlopSandboxCpp/build/
+build/
+.build/
+dist/
+.codex/
